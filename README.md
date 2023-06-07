@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/SketchCompetition-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   <img src="https://img.shields.io/badge/SketchCompetition-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
 </p>
-<br>
-
-## AWS Architecture 📡
-
-![KakaoTalk_20230602_004648813](https://github.com/SketchBasketball/Docs/assets/110002292/5798ec99-4e25-4038-ba5f-44b460ad892b)
 
 ## Tech Stack 💻
 
@@ -36,5 +31,13 @@
 * **DB** `MySQL`
 * **Package Manager** `Pipenv`
 
+## DB Schema
+
+* [Sketch DB ERD](https://www.erdcloud.com/d/RXCaQjbiKSEZGcurN)
+
 ## API Documentation
 * [Go to API Docs](https://api.sketchbball.com/redoc)
+
+## AWS Architecture 📡
+
+![KakaoTalk_20230602_004648813](https://github.com/SketchBasketball/Docs/assets/110002292/5798ec99-4e25-4038-ba5f-44b460ad892b)
