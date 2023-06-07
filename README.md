@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SketchBasketball/Docs/assets/110002292/cf1b86dd-0b4a-4b86-a2e5-8cf8ff1169e2" alt="sketch-logo" width="30%"/>
+  <img src="https://github.com/SketchBasketball/Docs/assets/110002292/ae18a173-4f11-44d3-9c34-5c7f1f0d37ec" alt="sketch-logo" width="30%"/>
 </div>
 
 <h1 align="center"><a href="https://sketchbball.com">Sketch Basketball</a></h1>
@@ -13,7 +13,7 @@
 
 ### Front-End
 
-![tech stack - fe](https://github.com/SketchBasketball/Docs/assets/110002292/7003ddec-16a6-4a9c-9759-7b3b8c068868)
+![tech stack - fe](https://github.com/SketchBasketball/Docs/assets/110002292/e8f72ba1-f91d-4fe0-8ac2-0c5a5f55ca16)
 
 * **Language** `JavaScript`
 * **Web Framework** `React v17.0.2`
@@ -23,7 +23,7 @@
 
 ### Back-End
 
-![tech stack - be](https://github.com/SketchBasketball/Docs/assets/110002292/f5132ac2-5899-4e98-9ca9-03a8643c925e)
+![tech stack - be](https://github.com/SketchBasketball/Docs/assets/110002292/53044105-0bf8-45ff-b02b-a15c1d035874)
 
 * **Language** `Python`
 * **Web Framework** `FastAPI`
@@ -35,9 +35,10 @@
 
 * [Sketch DB ERD](https://www.erdcloud.com/d/RXCaQjbiKSEZGcurN)
 
-## API Documentation
+## API Documentation 📃
+
 * [Go to API Docs](https://api.sketchbball.com/redoc)
 
 ## AWS Architecture 📡
 
-![KakaoTalk_20230602_004648813](https://github.com/SketchBasketball/Docs/assets/110002292/5798ec99-4e25-4038-ba5f-44b460ad892b)
+![Infra Architecture](https://github.com/SketchBasketball/Docs/assets/110002292/9c00be99-8307-4f60-98ed-5c4465955f39)
